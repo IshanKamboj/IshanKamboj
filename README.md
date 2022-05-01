@@ -1,10 +1,9 @@
 # Hello, I am Ishan Kamboj 👋
 ## **About Me**
 
-I'm a 15 year old coder from india, currently a jee aspirant.<br>
-I love anime, coding, music and drawing. Currently i am working on a discord bot<br>
+I'm a 16 year old coder from india, currently a jee aspirant.<br>
+I love anime, coding, music, drawing, etc<br>
 
-[Invite my Discord Bot](https://discord.com/api/oauth2/authorize?client_id=828553236423770122&permissions=1008073792&scope=bot)
 
 ---
  
