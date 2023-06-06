@@ -2,7 +2,7 @@
 ## **About Me**
 
 I am a student who loves Coding, Reading and learning new things as much as I can <br>
-<p>You can find me on <a href="https://discord.com/channels/@me/576442029337477130">Discord</a></p>
+<p>You can find me on <a href="https://discordid.netlify.app/?id=576442029337477130">Discord</a></p>
 ---
  
 ## **💻Languages I know**
