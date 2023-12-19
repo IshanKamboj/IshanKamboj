@@ -1,7 +1,7 @@
 # Hi, I m Ishan👋
 ## **About Me**
 
-I am a student who loves Coding, Reading and learning new things as much as I can <br>
+I am an undergraduate at IIT Kanpur. I love Coding, Reading and learning new things as much as I can. <br>
 <p>You can find me on <a href="https://discordid.netlify.app/?id=576442029337477130">Discord</a></p>
 ---
  
