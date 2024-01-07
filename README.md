@@ -18,6 +18,6 @@ I am an undergraduate at IIT Kanpur. I love Coding, Reading and learning new thi
 <img title="Django" alt="Django" src="https://icons8.com/icon/XPdRFanRZtNK/django.svg">
 <img title="Tailwind" alt="Tailwind" src="[https://icons8.com/icon/x7XMNGh2vdqA/tailwind-css](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042)">
 <img title="Tensorflow" alt="Tensorflow" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATensorflow_logo.svg&psig=AOvVaw0sfBFmZW8NKAJC3xtCoucR&ust=1704736142400000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIC51pTry4MDFQAAAAAdAAAAABAD">
-<img title="Discord.py" alt="Discord.py" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Fgallery%2FvPqCt&psig=AOvVaw1Qj-00VMYbv0-bFKlhE6Vs&ust=1704736104012000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCD14Pry4MDFQAAAAAdAAAAABAD">
+<img title="Discord.py" alt="Discord.py" src="https://img.icons8.com/ios-filled/50/discord-logo.png">
 </p>
 
